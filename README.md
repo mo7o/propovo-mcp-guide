@@ -39,3 +39,7 @@ Replace brackets with your own intended workspace context.
 ## Resources
 
 [Connection guide](https://propovo.com/mcp) · [Integrations](https://propovo.com/integrations) · [Support](https://propovo.com/contact)
+
+## Publisher verification
+
+[![M8ven Score](https://m8ven.ai/badge/mcp/mo7o-propovo-mcp-guide-10rab6?v=fd50223948611e94670daef110108adf)](https://m8ven.ai/mcp/mo7o-propovo-mcp-guide-10rab6?s=readme)
